@@ -4,18 +4,18 @@ Made by Mikejoya
 > Project made from a photo and files provided by [FrontendMentor](http://www.frontendmentor.io/ "FrontendMentor")
 wedding development engineer apprenticeship. apprenticeship for wed development engineers.
 
-## learnings
+# learnings
 
-##### Problems
+# Problems
 
 > Reinforcing learning of HTML, Css, JavaScript.
 Some problems I had, was when the social network card was in a desktop px position it. that was the biggest problem but it wasn't very complicated either.
 
 
-###### learned
+# learned
 This challenge confirms to me that practice makes you better day by day. no matter how big or small the challenge.
 
-## screenshot
+# screenshot
 
 [========]
 
